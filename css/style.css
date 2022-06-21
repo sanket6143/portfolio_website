@@ -1,0 +1,22 @@
+body{
+    background-color: #EFFFFD;
+}
+hr{
+    background-color:#EFFFFD; 
+    border-style: dotted none none;
+    border-color: #85F4FF;
+    border-width: 5px;
+    height: 0;
+    width: 10%;
+}
+h1{
+    color: #66BFBF;
+}
+h2{
+    color: #66BFBF;
+}
+
+.profi{
+    border-radius: 100%;
+}
+
